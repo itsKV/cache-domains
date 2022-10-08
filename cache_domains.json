@@ -123,6 +123,11 @@
 			"domain_files": ["qhupdt.txt"]
 		},
 		{
+			"name": "tests",
+			"description": "CDN for testing the LanCache performance",
+			"domain_files": ["tests.txt"]
+		},
+		{
 			"name": "xboxlive",
 			"description": "CDN for xboxlive",
 			"domain_files": ["xboxlive.txt"]
